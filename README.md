@@ -1,3 +1,5 @@
 # Sonia Mitchell
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soniamitchell&theme=graywhite)](https://github.com/soniamitchell/github-readme-stats)
+* Research software engineer and lead data analyst in the Scottish Covid-19 Response Consortium.
+* Postdoctoral researcher at the Institute of Biodiversity, Animal Health, and Comparitive Medicine, University of Glasgow.
+* Interested in collaborating with open source projects and learning new programming skills.
